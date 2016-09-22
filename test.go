@@ -5,5 +5,5 @@ import "fmt"
 func main() {
 	fmt.Printf("hello, world\n")
 
-	fmt.Printf("hello, world n TEST\n")
+	fmt.Printf("hello, world in TEST\n")
 }
